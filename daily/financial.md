@@ -8,9 +8,14 @@
 * Total : 2406 + 18156 = 20562
 
 ## current
+* TOTAL : 20622 (JAN 31)
+* End of 2025 : 23000
 * inverses
-** k200 : 2406 (-30 YTD)
-* fund : 19114 (+163 YTD from 18951 12/31)
+** today : 1749 (+29 YTD) 1749 / (9985/2) = 35%
+* retire
+** total : 19114 (+163 YTD from 18951 12/31)
+** today : 19058 + 62 - 101 = 19019 (+68 YTD)
+** fund : 9506 + 0.67% = 9569 + 517 = 10086 - 1% = 9985
 * saving : 18156
 * CC expense : -125
 
