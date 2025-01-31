@@ -1,7 +1,19 @@
+# Tools
+## nvim
+* configuration : https://builtin.com/software-engineering-perspectives/neovim-configuration
+
 ## lsd
 Use fira (nerd font) to display icons
+## prettify
+[mark down icons](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file)
 
 ## prog
+
+### HTTP
+
+* jq Basics
+
+### GO
 
 * GO: interface , defer, concurrency
 * [concurrency in go](https://www.boot.dev/lessons/ae21fb67-6443-4b43-b569-14b452872311)
