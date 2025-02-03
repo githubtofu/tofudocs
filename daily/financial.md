@@ -9,19 +9,21 @@
 
 ## current
 * TOTAL : 20622 (JAN 31)
-* End of 2025 : 23000
+* TOTAL : 20728 (FEB 03 + 106 YTD)
+* End of 2025 : 23000(est 1/31)
 * inverses
-** today : 1749 (+29 YTD) 1749 / (9985/2) = 35%
+** today : 1007 (+134 YTD)
+** today : 1749 (+29 YTD + 18 realized JAN) 1749 / (9985/2) = 35%
 * retire
-** today : 19119 - 101 = 19018 (+67 YTD)
-** fund : 10083 - 1% = 9982
+** today : 19120 - 96 - 347 = 18677 (-274 YTD)
+** today : 19119 - 101 - = 19018 (+67 YTD)
+** fund : 9506 - 1% = 9410 + 517 = 9927 - 3.5% = 9580 + 400 = 9980
+** fund : 10083 - 1% = 9982 - 3.5% = 9632 + 400 = 10382 - 3.5% = 10018
 * saving : 18156
 * CC expense : -125
 
 ## expectation
 
-* 1/31 (F) Sell inverses : ??
-* 2/1 monthly deposit (100) additional 200 if not buying inverses/dollars
 * 2/12 hcard
 * 2/14 samcard
 * 2/17 hanacard

@@ -3,6 +3,12 @@ Use fira (nerd font) to display icons
 
 ## prog
 
+### HTTP
+
+* jq Basics
+
+### GO
+
 * GO: interface , defer, concurrency
 * [concurrency in go](https://www.boot.dev/lessons/ae21fb67-6443-4b43-b569-14b452872311)
 * anonymous function , [channels](https://www.boot.dev/lessons/04984711-09c4-4020-ac36-6d4214012d34)
