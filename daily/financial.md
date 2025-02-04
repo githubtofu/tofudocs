@@ -7,7 +7,7 @@
 * *20728 (FEB 03 + 106 YTD)*
 * *20622 (JAN 31)*
 * End of 2025 : 23000(est 1/31)
-* extras
+* :star:
   * ...
 * inverses
   * :bar_chart: : 1606 (+107 YTD) FEB 04
@@ -27,9 +27,9 @@
 
 ## expectation
 
-* 2/12 h:credit_card:
-* 2/14 sam:credit_card:
-* 2/17 hana:credit_card:
+* 2/12 h :credit_card: -37
+* 2/14 sam :credit_card: ~50
+* 2/17 hana :credit_card: ~43 (total :credit_card: 130)
 * 2/21 :red_envelope: (+600)
 * 3/6 :moneybag: (2000) +25
 * 3/21 :red_envelope: (+700)
