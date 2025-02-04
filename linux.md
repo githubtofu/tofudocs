@@ -1,5 +1,10 @@
+# Tools
+## nvim
+* configuration : https://builtin.com/software-engineering-perspectives/neovim-configuration
+
 ## lsd
 Use fira (nerd font) to display icons
+
 
 ## prog
 
