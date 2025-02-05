@@ -4,7 +4,8 @@
 
 ## lsd
 Use fira (nerd font) to display icons
-
+## prettify
+[mark down icons](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file)
 
 ## prog
 
